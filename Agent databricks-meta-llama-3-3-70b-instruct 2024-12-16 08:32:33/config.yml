@@ -1,0 +1,4 @@
+llm_endpoint: "databricks-meta-llama-3-3-70b-instruct"
+uc_functions:
+  - "distribution_dsc.document_management_agent.search_documentation"
+  - "distribution_dsc.document_management_agent.lookup_glossary"
